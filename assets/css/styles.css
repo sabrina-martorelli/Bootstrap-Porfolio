@@ -70,3 +70,12 @@
   color: var(--highlight-color) !important;
  
 }
+
+.card {
+
+  background-color: rgba(0, 0, 0, 0.7) !important;
+  color: var(--highlight-color) !important;
+  border-bottom: 5px solid !important;
+
+}
+
