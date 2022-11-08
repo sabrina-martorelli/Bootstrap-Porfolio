@@ -23,12 +23,6 @@
 
   /* GLOBAL CLASES*/
 
-.icon {
-  width: 8%;
-  height: auto;
-  margin: 0px 20px;
-  cursor: pointer;
-}
 
 .underline{
 	width: 150px;
@@ -37,7 +31,6 @@
 }
 
 /* CUSTOM STYLES */
-
 
 /* Navigation bar and navigation section custom css*/
 
@@ -90,9 +83,8 @@
 .card {
 
   background-color: rgb(0, 0, 0) !important; 
-  
   border-bottom: 5px solid var(--highlight-color) !important; 
-
+  
 }
 
 .card-text {
@@ -111,8 +103,6 @@
   color: var(--highlight-color) !important;
  
 }
-
-
 
 
 /* Contact section custom css*/
@@ -140,7 +130,7 @@
 }
 
 
-
+/* Footer section custom css*/
 
 .footer {
   background-color: var(--primary-color) !important;
