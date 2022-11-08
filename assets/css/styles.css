@@ -90,3 +90,19 @@
  
 }
 
+#contact h4 {
+
+  color: var(--highlight-color) !important;
+
+}
+
+
+#contact a {
+  text-decoration: none;
+  color: var(--secondary-color);
+}
+
+#contact a:hover {
+  color: var(--highlight-color);
+  text-decoration: underline;
+}
