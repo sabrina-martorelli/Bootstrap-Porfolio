@@ -104,12 +104,15 @@
 }
 
 
+/* Skills section custom css*/
 
 .skillicon {
 
   color: var(--highlight-color) !important;
  
 }
+
+
 
 #contact h4 {
 
