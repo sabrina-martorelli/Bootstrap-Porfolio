@@ -38,20 +38,16 @@
 
 /* CUSTOM STYLES */
 
+
+/* Navigation bar and navigation custom css*/
+
 .navbar{
   background-color: var(--primary-color) !important;
 }
 
 
-.navbar-brand {
+.h1 {
   color: var(--highlight-color) !important;
- 
-}
-
-
-.hero figure img{
-  width: 50%;
-  height: auto;
  
 }
 
@@ -61,11 +57,21 @@
   
 }
 
-
 .nav-link:hover {
   color: var(--highlight-color) !important;
  
 }
+
+
+
+
+.hero figure img{
+  width: 50%;
+  height: auto;
+ 
+}
+
+
 
 .my-name{
   color: var(--secondary-color) !important;
