@@ -1,0 +1,86 @@
+/*VARIABLES*/
+:root {
+  --primary-color: rgb(14, 24, 24);
+  --secondary-color: rgb(145, 144, 140);
+  --highlight-color: rgb(234, 31, 73);
+}
+
+/*RESETS*/
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box
+  }
+
+
+  body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.5;
+  }
+
+
+
+  /* GLOBAL CLASES*/
+
+.icon {
+  width: 8%;
+  height: auto;
+  margin: 0px 20px;
+  cursor: pointer;
+}
+
+.underline{
+	width: 150px;
+	border: 2px solid rgb(0, 0, 0);
+	margin: auto;
+}
+
+/* CUSTOM STYLES */
+
+
+.navbar-brand {
+  color: var(--highlight-color) !important;
+
+}
+
+
+.hero figure img{
+  width: 50%;
+  height: auto;
+ 
+}
+
+.nav-link {
+  color: var(--secondary-color) !important;
+  text-decoration: none !important;
+  
+}
+
+
+.nav-link:hover {
+  color: var(--highlight-color) !important;
+ 
+}
+
+.my-name{
+  color: var(--secondary-color) !important;
+}
+
+.my-name a {
+  color: var(--secondary-color) !important;
+}
+
+.my-name a:hover {
+  color: var(--highlight-color) !important;
+ 
+}
+
+.card {
+
+ background-color: rgb(0, 0, 0) !important; 
+  color: var(--highlight-color) !important;
+  border-bottom: 5px solid !important; 
+
+}
+
