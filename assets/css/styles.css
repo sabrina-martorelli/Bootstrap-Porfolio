@@ -38,10 +38,14 @@
 
 /* CUSTOM STYLES */
 
+.navbar{
+  background-color: var(--primary-color) !important;
+}
+
 
 .navbar-brand {
   color: var(--highlight-color) !important;
-
+ 
 }
 
 
@@ -105,4 +109,9 @@
 #contact a:hover {
   color: var(--highlight-color);
   text-decoration: underline;
+}
+
+
+.footer {
+  background-color: var(--primary-color) !important;
 }
