@@ -117,30 +117,34 @@
 
 /* Contact section custom css*/
 
-#contact p {
+.contact  {
 
   color: var(--highlight-color) !important;
+ padding: 50%;
+}
+
+.contact i {
+
+  color: var(--primary-color) !important;
 
 }
 
-
-#contact a {
+.contact a {
   text-decoration: none;
   color: var(--secondary-color);
 }
 
-#contact a:hover {
+.contact a:hover {
   color: var(--highlight-color);
   text-decoration: underline;
 }
 
-#dark{
-
-  color:black;
-}
 
 
 
 .footer {
   background-color: var(--primary-color) !important;
 }
+
+
+
