@@ -82,11 +82,21 @@
 
 .card {
 
- background-color: rgb(0, 0, 0) !important; 
-  color: var(--highlight-color) !important;
-  border-bottom: 5px solid !important; 
+  background-color: rgb(0, 0, 0) !important; 
+  
+  border-bottom: 5px solid var(--highlight-color) !important; 
 
 }
+
+.card-text {
+   color: var(--secondary-color) !important;
+ }
+
+ .card-title {
+  color: var(--highlight-color) !important;
+}
+
+
 
 .skillicon {
 
