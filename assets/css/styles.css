@@ -39,7 +39,7 @@
 /* CUSTOM STYLES */
 
 
-/* Navigation bar and navigation custom css*/
+/* Navigation bar and navigation section custom css*/
 
 .navbar{
   background-color: var(--primary-color) !important;
@@ -63,28 +63,29 @@
 }
 
 
-
+/* Hero section custom css*/
 
 .hero figure img{
-  width: 50%;
+  width: 60%;
   height: auto;
  
 }
 
-
-
-.my-name{
+.name{
   color: var(--secondary-color) !important;
 }
 
-.my-name a {
+.name a {
   color: var(--secondary-color) !important;
 }
 
-.my-name a:hover {
+.name a:hover {
   color: var(--highlight-color) !important;
  
 }
+
+
+
 
 .card {
 
