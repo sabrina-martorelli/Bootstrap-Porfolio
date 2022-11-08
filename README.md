@@ -1,10 +1,5 @@
 # Bootstrap-Porfolio Sabrina Martorelli
 
-
-
-
-# Porfolio Sabrina Martorelli
-
 ## Description
 
 This is a portfolio layout using the Bootstrap CSS Framework. This porfolio belongs to Sabrina Martorelli .
@@ -17,24 +12,27 @@ N/A
 ## Usage
 
 On this porfolio the main content presents product cards with detailed descriptions.   
-The navigation bar at the top of the page links to the specific sections within the page: About, Work Skills and Contact. 
-In the about section the site presents a description of Sabrina's history.
-In the Work section the sites present a collection of resent work.
-In the Contact section the site present all the way to contact Sabrina.
+The navigation bar at the top of the page links to the specific sections within the page: Work, Skills, About and Contact. 
+* In the Work section the sites present a collection of resent work.
+* In the Skills sections you can find about Sabrina's skills
+* In the about section the site presents a description of Sabrina's history.
+* In the Contact section the site present all the way to contact Sabrina.
 
+
+## Screenshots 
 
 ![Porfolio Sabrina Martorelli](assets/images/screenshot.png)
 ![Porfolio Sabrina Martorelli](assets/images/screenshot2.png)
-![Porfolio Sabrina Martorelli](assets/images/screenshot3.png)
-![Porfolio Sabrina Martorelli](assets/images/screenshot4.png)
+
   
 
 ## Credits
 
-1. https://www.w3schools.com/ - How to create a portfolio.
-2. https://placeimg.com/ - Hundreds of millions of images served.
-3. https://www.flaticon.com/ - Access 8.4M+ vector icons and stickers.
-4. https://colorpalettes.net/ - Resource that helps you in color selection.
+1. https://getbootstrap.com/ - Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins.
+2. https://fontawesome.com/ - Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
+3. https://www.w3schools.com/ - How to create a portfolio.
+4. https://placeimg.com/ - Hundreds of millions of images served.
+5. https://colorpalettes.net/ - Resource that helps you in color selection.
 
 
 
@@ -53,5 +51,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Deployment link
 
-https://sabrina-martorelli.github.io/porfolio/
+https://sabrina-martorelli.github.io/Bootstrap-Porfolio/
 
