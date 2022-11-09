@@ -119,7 +119,8 @@
 .contact  {
 
 color: var(--highlight-color) !important;
-padding-left: 20%;
+padding-top: 5%;
+padding-left: 18%;
 }
 
 .contact i {
