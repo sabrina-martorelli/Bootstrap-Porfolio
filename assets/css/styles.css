@@ -109,8 +109,8 @@
 
 .contact  {
 
-  color: var(--highlight-color) !important;
- padding: 50%;
+color: var(--highlight-color) !important;
+padding-left: 20%;
 }
 
 .contact i {
